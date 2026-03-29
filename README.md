@@ -1,11 +1,9 @@
 # 💰 ET Money Mentor — AI-Powered Personal Finance Coach
 
 > **ET AI Hackathon 2026** · Problem Statement 9: AI Money Mentor  
-> Built with Claude AI (Anthropic) + Vanilla HTML/CSS/JS
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-C9A84C?style=for-the-badge)](./ai-money-mentor.html)
 [![Problem Statement](https://img.shields.io/badge/PS%209-AI%20Money%20Mentor-1E3A5F?style=for-the-badge)](https://economictimes.com)
-[![Powered by Claude](https://img.shields.io/badge/Powered%20by-Claude%20AI-orange?style=for-the-badge)](https://anthropic.com)
 
 ---
 
